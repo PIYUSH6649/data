@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-int main()
+int main()a
 {
     int *arr, sz;
     int i, j;
